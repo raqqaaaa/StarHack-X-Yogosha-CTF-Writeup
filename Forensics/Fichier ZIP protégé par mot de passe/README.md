@@ -6,8 +6,6 @@
 
 > J'ai oublié le mot de passe de mon fichier ZIP, pouvez-vous m'aider à récupérer mon fichier précieux, s'il vous plaît ?
 
-**Format du drapeau** : `StarHack{flag trouvé}`
-
 ---
 
 ## Étapes de Résolution
