@@ -12,7 +12,7 @@
 
 ## Étapes de Résolution
 
-### Étape 1 : Extraire des chaînes de caractères dans l'image
+### Étape 1 :
 
 Utilisez la commande `strings` pour analyser le fichier `peace.jpeg` et afficher les premières lignes.
 
@@ -21,7 +21,7 @@ strings peace.jpeg | head
 ```
 Première partie du flag `exif_and`
 
-### Étape 2 : Extraire des chaînes de caractères dans l'image
+### Étape 2 :
 
 Utilisez la commande `strings` pour analyser le fichier `peace.jpeg` et afficher les dernieres lignes.
 
