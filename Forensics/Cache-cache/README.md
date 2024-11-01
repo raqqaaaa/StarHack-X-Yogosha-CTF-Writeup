@@ -1,6 +1,6 @@
 # Cache-cache (Forensics)
 
-**Points** : 100
+**Points** : 500
 
 ## Description
 
