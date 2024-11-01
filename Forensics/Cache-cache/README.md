@@ -19,6 +19,8 @@ Utilisez la commande `strings` pour analyser le fichier `peace.jpeg` et afficher
 ```bash
 strings peace.jpeg | head
 ```
+Première partie du flag `exif_and`
+
 ### Étape 2 : Extraire des chaînes de caractères dans l'image
 
 Utilisez la commande `strings` pour analyser le fichier `peace.jpeg` et afficher les dernieres lignes.
@@ -26,6 +28,7 @@ Utilisez la commande `strings` pour analyser le fichier `peace.jpeg` et afficher
 ```bash
 strings peace.jpeg | tail
 ```
+Deuxième partie du flag `strings_easy`
 
 ## Flag 
 `StarHack{exif_and_strings_easy}`
