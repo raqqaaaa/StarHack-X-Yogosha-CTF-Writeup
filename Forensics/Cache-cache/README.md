@@ -19,6 +19,7 @@ Utilisez la commande `strings` pour analyser le fichier `peace.jpeg` et afficher
 ```bash
 strings peace.jpeg | head
 ```
+![Description de l'image](https://cdn.discordapp.com/attachments/1250870245246238853/1301909524260847636/image.png)
 Première partie du flag `exif_and`
 
 ### Étape 2 :
@@ -28,6 +29,7 @@ Utilisez la commande `strings` pour analyser le fichier `peace.jpeg` et afficher
 ```bash
 strings peace.jpeg | tail
 ```
+![Description de l'image](https://cdn.discordapp.com/attachments/1250870245246238853/1301909879103164436/image.png)
 Deuxième partie du flag `strings_easy`
 
 ## Flag 
