@@ -17,7 +17,9 @@
 ### Étape 1 : Analyser la capture réseau en ligne
 
 Allez sur le site d’analyse de captures réseau [https://apackets.com/upload](https://apackets.com/upload).
+
 Chargez le fichier `challenge.pcapng` en cliquant sur **Upload**.
+
 Cliquez ensuite sur **View Report** pour accéder au rapport d'analyse.
    
 ![Description de l'image](https://cdn.discordapp.com/attachments/1250870245246238853/1301921154390294568/image.png?ex=67263c0f&is=6724ea8f&hm=debc4b9ec406a714a65355610acb74ac094fef276df136c1a590e7068f060b5c&)
@@ -25,7 +27,9 @@ Cliquez ensuite sur **View Report** pour accéder au rapport d'analyse.
 ### Étape 2 : Identifier les Ports Ouverts
 
 Dans le rapport, recherchez la section **Open Ports**.
+
 Le rapport indique que **3 ports** sont ouverts : **21 (FTP), 22 (SSH), et 80 (HTTP)**.
+
 Nous avons ainsi la première partie du flag : `3` (le nombre de ports ouverts).
    
 ![Description de l'image](https://cdn.discordapp.com/attachments/1250870245246238853/1301922121722761309/image.png?ex=67263cf6&is=6724eb76&hm=967c342638f0b5cd93aa03887407f20f9de289c98acb5899593f50d493d17311&)
